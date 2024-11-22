@@ -107,40 +107,6 @@ Aptidão: -0.0000000
 Best: -0.0000000
 ```
 
----
-
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias, como:
-- Adicionar gráficos para visualizar a evolução da aptidão.
-- Explorar diferentes funções objetivo.
-- Alterar configurações do algoritmo para comparar desempenhos.
-
-Para contribuir:
-1. Faça um fork deste repositório.
-2. Crie um branch para sua feature:
-   ```bash
-   git checkout -b minha-feature
-   ```
-3. Commit suas mudanças:
-   ```bash
-   git commit -m "Adicionei nova funcionalidade"
-   ```
-4. Envie para o repositório remoto:
-   ```bash
-   git push origin minha-feature
-   ```
-5. Abra um Pull Request.
-
----
-
-Se precisar de ajuda ou encontrar algum problema, abra uma [issue](https://github.com/seu-usuario/projeto3/issues).
+**Autor**: Walisson Moraes
 
 --- 
-
-**Autor**: Seu Nome  
-**Licença**: MIT
-
---- 
-
-Você pode ajustar conforme necessário, incluindo links ou mais detalhes específicos!
