@@ -1,7 +1,3 @@
-Aqui está um modelo de README para o repositório do seu projeto:
-
----
-
 # Projeto3 - Algoritmo Genético para Otimização
 
 Este projeto implementa um **algoritmo genético** para resolver um problema de otimização. O objetivo é encontrar o valor de \(x\) no intervalo \([-10, 10]\) que maximiza a função \(f(x) = -x^2\). A solução ideal é \(x = 0\), onde a função atinge seu valor máximo.
