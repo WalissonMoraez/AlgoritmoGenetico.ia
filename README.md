@@ -7,8 +7,7 @@ Este projeto implementa um **algoritmo genético** para resolver um problema de 
 - [Como Funciona](#como-funciona)
 - [Configurações do Algoritmo](#configurações-do-algoritmo)
 - [Execução do Programa](#execução-do-programa)
-- [Resultados](#resultados)
-- [Contribuição](#contribuição)
+- [Resultados](#resultados).
 
 ---
 
